@@ -47,3 +47,6 @@ public class NeuroMain {
 - **Error Metrics**: Calculate various error metrics (e.g., Mean Squared Error, Cross-Entropy Loss) to evaluate model accuracy.
 
 These features enhance the functionality and usability of the neural network, making it a versatile tool for educational purposes and experimentation in the field of artificial intelligence and machine learning.
+
+## Contributing
+If you would like to contribute to this project, please follow the standard open-source contribution guidelines. We welcome bug reports, feature requests, and pull requests.
